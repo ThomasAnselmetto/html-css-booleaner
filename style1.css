@@ -63,6 +63,27 @@ h6{
     margin-top: 15px;
     margin-bottom: 15px;;
 }
+.tabella{
+    margin-bottom: 10px;
+}
+
+.highlight{
+    background-color: yellow;
+}
 .list{
     margin-left: 17px;
+    margin-top: 10px;;
+}
+
+.thead{
+    background-color: #4D9CF8;
+    color: white;
+}
+
+.regola-tabella{
+    width: 50%;
+
+}
+.background-row{
+    background-color: #AFE2EF;
 }
