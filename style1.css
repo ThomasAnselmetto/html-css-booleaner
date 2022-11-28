@@ -31,22 +31,29 @@
 .main-heading{
     margin-left:5px;
 }
-h4, h6{
+h4{
     color:#808080
 }
 
+.main-heading h6{
+    color:#808080
+}
 .tim-photo{
     margin-left: 5px;;
     margin-top: 20px;
 }
 .tim1{
-    height: 313.33px;
-    width: 54%;
+   
+    width: 53%;
     
     
 }
 .tim2{
-    height: 313.33px;
+    height:100%;
     width: 45%;
    
+}
+
+h6{
+    font-weight: 300;
 }
