@@ -57,3 +57,12 @@ h4{
 h6{
     font-weight: 300;
 }
+
+.paragrafo{
+    margin-left: 5px;
+    margin-top: 15px;
+    margin-bottom: 15px;;
+}
+.list{
+    margin-left: 17px;
+}
