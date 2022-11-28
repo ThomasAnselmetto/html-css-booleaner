@@ -2,12 +2,16 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+}
 
+.contenitor{
+    width: 800px;
+    margin: auto;
 }
 
 .pattern{
     
-    height: 100px;
+    height: 90px;
     background-image: url("./IMG/pattern.png");
     background-repeat: repeat-x;
     background-size:contain;
@@ -16,6 +20,10 @@
 }
  .pattern img{
     height: 40px;
-    margin-top:50px;
+    margin-top:40px;
     margin-left: 10px; 
+}
+
+.the-booleaner{
+    color:#4D9CF8;
 }
