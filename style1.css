@@ -61,7 +61,7 @@ h6{
 .paragrafo{
     margin-left: 5px;
     margin-top: 15px;
-    margin-bottom: 15px;;
+    margin-bottom: 25px;;
 }
 .tabella{
     margin-bottom: 10px;
@@ -71,8 +71,9 @@ h6{
     background-color: yellow;
 }
 .list{
-    margin-left: 17px;
-    margin-top: 10px;;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom:20px;
 }
 
 .thead{
@@ -86,4 +87,28 @@ h6{
 }
 .background-row{
     background-color: #AFE2EF;
+}
+
+.foto{
+    position:relative;
+}
+.desk{
+    height:300px;
+    background-image: url(./IMG/monitor.jpg);
+    background-repeat: no-repeat;
+    color:white;
+    padding: 10px;
+    margin-top: 10px;
+}
+.graphics{
+    position: absolute;
+    top:80%;
+    width:800px;
+    height:300px;
+    background-image: url(./IMG/graph.jpg);
+    background-repeat: no-repeat;
+    color:white;
+    padding: 10px;
+    
+
 }
